@@ -16,4 +16,4 @@ B. Dataset Iris (Klasifikasi - Decision Tree)
 
 C.Dataset Iris (Klastering - Decision Tree) 
 
-![image](https://user-images.githubusercontent.com/105411972/197688542-4834b2b4-f59a-45dd-b3b0-1e42452fc28e.png)
+![image](https://user-images.githubusercontent.com/105411972/197688542-4834b2b4-f59a-45dd-b3b0-1e42452fc28e.png) 
