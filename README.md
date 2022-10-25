@@ -18,10 +18,19 @@ KELAS : SAINS DATA 3
 
   ![image](https://user-images.githubusercontent.com/105411972/197689295-000a725a-8635-4099-8e45-0304154034b1.png)
 
-B. Dataset Iris (Klasifikasi - Decision Tree) 
+## Dataset Iris (Klasifikasi - Decision Tree)
+1. Sample Dataset Iris dengan Algoritma Decision Tree
+  
+  ![Screenshot (27)](https://user-images.githubusercontent.com/105411972/197767062-0f2dbb53-342b-4aa4-9327-d70989392086.png)
 
-![image](https://user-images.githubusercontent.com/105411972/197688961-2c47e818-fe9b-48ff-a0b5-35a15f20202a.png)
+2. Himpunan data (dataset)
 
-C.Dataset Iris (Klastering - Decision Tree) 
+  ![Screenshot (28)](https://user-images.githubusercontent.com/105411972/197767256-d94bb227-cab5-43b7-bb8a-2dca4df23952.png)
 
+3. Pola atau Model Daata
+
+  ![image](https://user-images.githubusercontent.com/105411972/197688961-2c47e818-fe9b-48ff-a0b5-35a15f20202a.png)
+
+## Dataset Iris (Klastering - Decision Tree) 
+1. 
 ![image](https://user-images.githubusercontent.com/105411972/197688542-4834b2b4-f59a-45dd-b3b0-1e42452fc28e.png) 
