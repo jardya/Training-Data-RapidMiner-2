@@ -46,5 +46,10 @@ KELAS : SAINS DATA 3
 ![image](https://user-images.githubusercontent.com/105411972/197785794-2e16c8e3-40d7-4323-8e24-b4bf3f11a64a.png)
 ### 3. Pola / Model Data
 ![image](https://user-images.githubusercontent.com/105411972/197786292-ecf3dcc8-8b7d-48d6-a681-1475be6d149a.png)
+![image](https://user-images.githubusercontent.com/105411972/197787493-76ef85c0-06e8-4a82-822c-19b2c71b404f.png)
+
+## Dataset Transaksi (Association)
+### 1. Sampel Dataset Golf dengan Algoritma FP-Growth
+
 
 
