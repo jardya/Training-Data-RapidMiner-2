@@ -31,6 +31,8 @@ KELAS : SAINS DATA 3
 ## Dataset CPU (Estimasi)
 ### 1. Sampel Dataset dengan Algoritma linier Regrecision
 ![image](https://user-images.githubusercontent.com/105411972/197775150-18e1af56-98d4-4fde-a6ca-88979f1c2234.png)
-### 2. Himpunan data (dataset)
+### 2. Himpunan data (dataset) dan Pola 
 ![image](https://user-images.githubusercontent.com/105411972/197775483-4ede3f7e-b5ba-4439-9b24-73d5293c5c93.png)
-### 3. Pola atau Model Data
+
+## Dataset Data Pemilu KPU (Klasifikasi)
+### 1. Sampel Dataset Golf dengan Algoritma Decision Tree
