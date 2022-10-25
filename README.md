@@ -5,8 +5,10 @@ NIM : 19.01.013.064
 KELAS : SAINS DATA 3
 ```
 
+## Dataset Golf  (Klasifikasi - Decision Tree)   
+1. Sampel Dataset Golf dengan Algoritma Decision Tree
 
-A. Dataset Golf  (Klasifikasi - Decision Tree)   
+  
 
 ![image](https://user-images.githubusercontent.com/105411972/197689295-000a725a-8635-4099-8e45-0304154034b1.png)
 
